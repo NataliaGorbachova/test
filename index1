@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+	<meta charset="utf-8">
+	<link rel="stylesheet" type="text/css" href="slick.css"/>
+    <link rel="stylesheet" type="text/css" href="slick-theme.css"/>
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+	<meta name="viewport" content="width=device-width">
+	<link rel="stylesheet" href="style.css">
+	
+	<title>Розв'язаня олімпіадних задач</title>
+	
+</div>
+	
+		
+	 
+</head>
+<body>
+<div class="container ">
+   <div class="row"> 
+		<div class="col-12 header"> 
+		<div class="herder"> Відео та методичні рекомендації щодо підготовки до олімпіад з програмування </div>
+		
+		</div>
+	</div>
+	<div class="row"> 
+		<div class="col-md-4 col-xs-12 left">
+		<div class="left">
+		
+		<p>
+		<iframe width="280" height="200" src="https://www.youtube.com/embed/T0nRsiUwK6M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+		<iframe width="280" height="200" src="https://www.youtube.com/embed/sN8qiVJvFR0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+		<iframe width="280" height="200" src="https://www.youtube.com/embed/Y8vxLURE42o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+		<iframe width="280" height="200" src="https://www.youtube.com/embed/BtBxtoXBI54" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+		<iframe width="280" height="200" src="https://www.youtube.com/embed/Qx3Rh0SF6tw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+		</p>
+		
+  	
+	</div>
+		</div>
+		<div class="col-md-4 col-xs-12 center">
+		<div class="center">
+		<p align="center">
+		<iframe width="280" height="200" src="https://www.youtube.com/embed/4md0G8RQKfk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+		<iframe width="280" height="200" src="https://www.youtube.com/embed/42-W6Gh_f9I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+		<iframe width="280" height="200" src="https://www.youtube.com/embed/hCitKvrjmAw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+		<iframe width="280" height="200" src="https://www.youtube.com/embed/0cO7I8H4kiQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+		<iframe width="280" height="200" src="https://www.youtube.com/embed/CvTldI_xALc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+		<p>
+
+
+	
+  </div>
+	</div>
+		<div class="col-md-4 col-xs-12 right">
+		<p>
+		
+		<h5> Методичні рекомендації щодо розв`язання олімпіадних задач з програмування </h5>
+
+
+Олімпіадна задача з програмування– це завдання, яке вимагає написати програму, яка повинна зчитати з консолі (файлу) певні дані, в залежності від вхідних даних розв’язати задачу і вивести в консоль (файл) певні дані (результат), відповідь на поставлену задачу. 
+Етапи розв'язання олымпыадної задачі:
+<h6> Аналіз умови задачі (1-й етап)</h6>
+ Умова олімпіадної задачі з програмування складається з таких елементів: сюжету, завдання, технічних умов, прикладу вхідних та вихідних даних.
+
+Сюжет містить опис ситуації, яка розглядається в даній задачі. 
+
+Отримавши задачу необхідно уважно її прочитати. 
+
+<h6>Складання плану розв’язку задачі (2-й етап) </h6>
+ Складання плану розв’язання задачі, мабуть, є головним кроком на шляху її розв’язання. Правильно складений план розв’язання задачі майже гарантує правильне її розв’язання. Але складання плану може виявитися складним і тривалим процесом. Тому вкрай необхідно навчити учнів ставити запитання до задачі, що допомагають йому краще і швидше скласти план розв’язання задачі, фактично визначити метод її розв’язання:
+<h6>Побудова математичної моделі та схеми розв’язку (3-й етап) </h6>
+ Побудувати математичну модель – це описати математично процеси, факти, умови задачі.
+ <h6>Реалізація алгоритму (4-й етап)</h6>
+ Раціонально використаний час на олімпіаді – 90% відсотків успіху. Тому дуже важливим є уміння розподілити кожну хвилину під час самої олімпіади, мати свою тактику і стратегію.
+
+<h6>Тестування та від лагодження(5-й етап) </h6>
+ Після того, як програма відкомпільована, необхідно перевірити на правильність її роботи.
+ Часто буває, під час набору коду програми сплутані певні змінні, знак у формулі, неправильно розставлені дужки, тощо.
+ Спочатку необхідно перевірити чи правильно вона працює на тестах, які дано в умові задачі. 
+
+
+
+		
+				</div>
+				
+	</div>	
+	</div>
+	
+	<div class="slick-container">
+	  <div><img src="15.jpg" ></div>
+	  <div>Навчання программуванню у  Маріуполі</div>
+  <div><img src="6.jpg" ></div>
+   <div>Навчання программуванню у Маріуполі</div>
+  <div><img src="14.jpg" ></div>
+   <div>Навчання программуванню у Маріуполі</div>
+   
+</div> 
+	
+	
+
+	
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+ <div class="media-test">
+ </div> 
+<script type="text/javascript" src="//code.jquery.com/jquery-1.11.0.min.js"></script>
+<script type="text/javascript" src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+<script type="text/javascript" src="slick.min.js"></script>
+
+<script>
+
+$(document).ready(function(){
+  $('.slick-container').slick({
+  slidesToShow: 4,
+  autoplay: true,
+  });
+});
+</script>
+	
+<div class="row">
+		<div class="col-12 footer"> 
+		<div class="footer">
+<a href="index.html">1</a>
+<a href="index2.html">3</a>
+   </div>
+</div>
+</div>
+
+	
+	
+		
+	
+
+
+
+
+</body>
+
+
+
+
+</html>
